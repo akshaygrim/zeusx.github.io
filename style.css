@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+
+.day {
+    color: aquamarine;
+    font-size: medium;
+}
+.hour {
+    color: aquamarine;
+    font-size: medium;
+}
+.seconds {
+    color: aquamarine;
+    font-size: medium;
+}
+.minutes{
+    color: aquamarine;
+    font-size: medium;
+}
+.zx {
+    color: aquamarine;
+    
+}
+.center-0{
+    color: aquamarine;
+    font-size: large;
+}
+.grid {
+    color: white;
+    padding: auto;
+    font-size: larger;
+}
